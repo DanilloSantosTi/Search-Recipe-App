@@ -44,3 +44,6 @@
 
 # Arquivos de backup
 *.kt~
+
+# Arquivos detekt
+*.yml
